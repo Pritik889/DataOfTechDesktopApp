@@ -2,5 +2,8 @@
 
 Download :[here](https://github.com/Pritik889/DataOfTechDesktopApp/releases/tag/1.0.0)
 
-https://youtu.be/Q9TnbMCp91I
+[![How to install]({image-url})](https://youtu.be/Q9TnbMCp91I "Download data of tech desktop version")
+
+
+
 
